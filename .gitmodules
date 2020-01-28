@@ -1,0 +1,4 @@
+[submodule "tdtconsultants/cfe_uy"]
+	path = tdtconsultants/cfe_uy
+	url = git@github.com:tdtconsultants/cfe_uy.git
+	branch = master
